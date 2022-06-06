@@ -9,11 +9,11 @@ Hypothesis:If HEXIM 1 protein in Mice(MUS) is similar in sequence and function t
 
 Here is a run down of what I have included.
 ------------------------------------------------
-juptier notebook
-HTML project 2 knitted
-fasta flies for sequence aligment
-Files for the logo sequences that were made
-PDB structure
-distance of PDB structure
-all the downloaded packages
-a breif discription of some of the useful packages for my code and for the course
+  juptier notebook
+  HTML project 2 knitted
+  fasta flies for sequence aligment
+  Files for the logo sequences that were made
+  PDB structure
+  distance of PDB structure
+  all the downloaded packages
+  a breif discription of some of the useful packages for my code and for the course
